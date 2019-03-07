@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21139" started-at="2019-03-06T07:29:06Z" finished-at="2019-03-06T07:29:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21139" started-at="2019-03-06T07:29:06Z" finished-at="2019-03-06T07:29:27Z">
+      <class name="com.sales.AmazonServices.TC_006">
+        <test-method status="PASS" signature="startProcess()[pri:0, instance:com.sales.AmazonServices.TC_006@5abca1e0]" name="startProcess" is-config="true" duration-ms="14240" started-at="2019-03-06T07:29:06Z" finished-at="2019-03-06T07:29:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startProcess -->
+        <test-method status="PASS" signature="automationRegistration()[pri:0, instance:com.sales.AmazonServices.TC_006@5abca1e0]" name="automationRegistration" duration-ms="6864" started-at="2019-03-06T07:29:20Z" finished-at="2019-03-06T07:29:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationRegistration -->
+        <test-method status="PASS" signature="endProcess()[pri:0, instance:com.sales.AmazonServices.TC_006@5abca1e0]" name="endProcess" is-config="true" duration-ms="0" started-at="2019-03-06T07:29:27Z" finished-at="2019-03-06T07:29:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endProcess -->
+      </class> <!-- com.sales.AmazonServices.TC_006 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
